@@ -1,0 +1,42 @@
+.target {
+    background: black;
+    height: 600px;
+    box-sizing: border-box;
+    padding-top: 150px;
+}
+.target1 {
+    color: orangered ;
+    font-size: 20px;
+    text-align: center;
+    border: 3px solid orangered;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 7px;
+}
+.target2 {
+    color: aqua;
+    font-size: 20px;
+    text-align: center;
+    border: 3px solid aqua;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 7px;
+}
+.target3 {
+    color: blueviolet;
+    font-size: 20px;
+    text-align: center;
+    border: 3px solid blueviolet;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 7px;
+}
+.target4 {
+    color: #d25f5f;
+    font-size: 20px;
+    text-align: center;
+    border: 3px solid #d25f5f;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 7px;
+}
