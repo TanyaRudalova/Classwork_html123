@@ -1,0 +1,44 @@
+
+.green {
+    background: greenyellow;
+    text-align: center;
+    border: 2px solid black;
+    height: 60px;
+    width: 300px;
+}
+.big { display: flex }
+.red { background: darkred;
+    border: 2px solid black;
+    height: 180px;
+    width: 100px;
+    text-align: center;
+    padding-top: 30px;
+}
+.blue {
+    display: flex;
+    flex-direction: column;
+}
+
+.smal1 {
+    background: aquamarine;
+    text-align: center;
+    border: 2px solid black;
+    height: 95px;
+    width: 180px;
+    margin-bottom: 5px;
+}
+.smal2 {
+    background: aquamarine;
+    text-align: center;
+    border: 2px solid black;
+    height: 95px;
+    width: 180px;
+}
+.grey {
+    background: darkseagreen;
+    text-align: center;
+    border: 2px solid black;
+    height: 60px;
+    width: 300px;
+
+}
