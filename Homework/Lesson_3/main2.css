@@ -1,0 +1,41 @@
+.first {
+    background: cadetblue;
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+}
+.second { display: flex;
+flex-direction: row;
+}
+.green {
+    background: cadetblue;
+    height: 75px;
+    width: 95px;
+    text-align: center;
+    margin: 4px 4px 4px 1px;
+}
+.red {
+    background: cadetblue;
+    height: 75px;
+    width: 95px;
+    text-align: center;
+    margin: 4px 4px 4px;
+}
+.blue {
+    background: cadetblue;
+    height: 75px;
+    width: 95px;
+    text-align: center;
+    margin: 4px 4px 4px;
+
+}
+.third {
+    background: cadetblue;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+}

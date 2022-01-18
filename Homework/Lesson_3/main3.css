@@ -1,0 +1,57 @@
+.first {
+    background: darksalmon;
+    height: 50px;
+    width: 300px;
+    text-align: center;
+    font-size: 25px;
+}
+.second {
+    display: flex;
+    flex-direction: row;
+}
+.green {
+    display: flex;
+    flex-direction: column;
+}
+.small {
+    background: darksalmon;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    font-size: 25px;
+    margin: 3px;
+}
+.blue {
+    background: darksalmon;
+    width: 100px;
+    height: 120px;
+    text-align: center;
+    font-size: 25px;
+    margin: 3px;
+}
+.big {
+    display: flex;
+}
+.target1 {
+    background: darksalmon;
+    height: 60px;
+    width: 60px;
+     margin: 3px;
+    text-align: center;
+}
+.target2 {
+    background: darksalmon;
+    height: 60px;
+    width: 60px;
+    margin: 3px;
+    text-align: center;
+
+}
+.target3 {
+    background: darksalmon;
+    height: 60px;
+    width: 60px;
+    margin: 3px;
+    text-align: center;
+
+}
