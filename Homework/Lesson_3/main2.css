@@ -1,41 +1,44 @@
 .first {
     background: cadetblue;
     height: 100px;
-    width: 300px;
+    width: 301px;
     text-align: center;
     padding-top: 5px;
     font-size: 30px;
+    margin-bottom: 2px;
 }
 .second { display: flex;
-flex-direction: row;
 }
 .green {
     background: cadetblue;
     height: 75px;
-    width: 95px;
+    width: 99px;
     text-align: center;
-    margin: 4px 4px 4px 1px;
+    margin-right: 2px;
+
 }
 .red {
     background: cadetblue;
     height: 75px;
-    width: 95px;
+    width: 99px;
     text-align: center;
-    margin: 4px 4px 4px;
+    margin-right: 2px;
+
 }
 .blue {
     background: cadetblue;
     height: 75px;
-    width: 95px;
+    width: 99px;
     text-align: center;
-    margin: 4px 4px 4px;
+
 
 }
 .third {
     background: cadetblue;
     height: 200px;
-    width: 300px;
+    width: 301px;
     text-align: center;
     font-size: 30px;
     padding-top: 30px;
+    margin-top: 2px;
 }
