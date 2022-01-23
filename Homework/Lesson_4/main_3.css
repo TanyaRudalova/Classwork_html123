@@ -1,0 +1,27 @@
+.bg { background: darksalmon;
+text-align: center;}
+.hg-50  {height: 50px;}
+.wd-300 {width: 300px;}
+.wd-199 {width: 199px;}
+.target {
+    height: 65px;
+    width: 65px;
+}
+.wd-98 {width: 98px;}
+.hg-117 {height: 117px;}
+.mind {
+    display: flex;
+    flex-direction: row;
+}
+.fth {
+    display: flex;
+    flex-direction: column;
+}
+.mant {
+    display: flex;
+    flex-direction: row;
+}
+#post { margin-bottom: 2px; }
+#fot { margin-right: 2px;  margin-bottom: 2px; }
+#fots { margin-right: 2px; }
+#fotsr {margin-right: 2px; }

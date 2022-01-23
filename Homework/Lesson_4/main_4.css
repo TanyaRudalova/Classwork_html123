@@ -1,0 +1,24 @@
+.bg {  background: coral;
+text-align: center;
+}
+.hg-50 { height: 50px;}
+.wd-265 { width: 265px;  }
+.hg-122 {height: 122px; }
+.wd-79 { width: 79px; }
+.same {
+    height: 60px;
+    width: 60px;}
+
+#set { display: flex;
+flex-direction: row;
+margin-bottom: 2px;
+margin-right: 2px;
+}
+#sets {display: flex;
+    flex-direction: row;}
+.sec {
+    display: flex;
+    flex-direction: row;
+    margin-top: 2px;
+}
+.mg-rg { margin-right: 2px;  }

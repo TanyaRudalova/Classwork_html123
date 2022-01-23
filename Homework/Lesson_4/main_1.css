@@ -1,0 +1,29 @@
+.bord {
+    border:2px solid black;
+    text-align: center;
+    font-size: 15px;
+}
+.base {
+    height: 60px;
+    width: 300px;
+}
+.bg-biege { background: burlywood }
+.bg-cor   { background: coral }
+
+.post  {
+    background: aqua;
+    height: 88px;
+    width: 184px;
+}
+.hg-182 { height: 182px;}
+.wid-110 { width:110px }
+.bg-salmon { background: darksalmon   }
+
+.target {
+    display: flex;
+    flex-direction: row;
+}
+#header { margin-bottom: 2px }
+#menu { margin-right: 2px }
+#footer { margin-top: 2px }
+#test {  margin-bottom: 2px}

@@ -1,0 +1,103 @@
+.bg-grey { background: lightgray }
+.bg-blue { background: cornflowerblue }
+.bg-dblue { background: royalblue }
+.hg-140 { height: 140px   }
+.wid-500 { width: 500px  }
+.hg-35 { height: 35px }
+.txt { font-size: 11px }
+.button  {
+    height: 20px;
+    width: 60px;
+    border-radius: 10px;
+}
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.margin { margin-top: 5px }
+.marginlf { margin-left: 288px   }
+.marginlr {
+    margin-left: 125px;
+    margin-right: 125px;
+}
+.margin-210 { margin-left: 210px }
+.buttons {
+    height: 20px;
+    width: 60px;
+    border-radius: 10px;
+}
+.border {
+    width: 400px;
+    height: 85px;
+    border: 2px solid cornflowerblue;
+    border-radius: 20px;
+    margin-left: 45px;
+}
+.hg-110 { height: 100px  }
+.button35 {
+    height: 35px;
+    width: 45px;
+    border-radius: 5px;
+}
+.flex-col { display: flex;
+flex-direction: column;
+}
+.txtcentr {  text-align: center}
+.margin-2 { margin-bottom: 2px }
+.padding {padding-top: 7px;}
+.circle {
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+}
+.bcircle {
+    height: 70px;
+    width: 70px;
+    border: 1px solid cornflowerblue;
+}
+.mrgn-bc { margin-top: 8px;
+    margin-left: 12px;
+}
+.margin-10 { margin-top: 10px }
+.paddtop { padding-top: 7px }
+.txtcentr { text-align: center }
+.block { height: 40px;  width: 65px; margin-top: 2px;
+}
+.borderbl {
+    height: 70px;
+    width: 70px;
+    border: 1px solid cornflowerblue;}
+.border-button {
+    height: 17px;
+    width: 70px;
+    border-top: 1px solid cornflowerblue;
+}
+.button_f { height: 8px;
+width: 10px;
+margin-top: 2px;
+margin-right: 25px;
+margin-left: 2px;}
+.button-sm { height: 5px;
+width: 5px;}
+.flex-row { display: flex;
+flex-direction: row;}
+.margin-r { margin-right: 25px }
+.margin-rsm { margin-right: 2px }
+.margin-top { margin-top: 2px }
+.margin-left { margin-left: 2px }
+.block2 { height: 50px;
+width: 150px;}
+.margin-100 {margin-left: 100px }
+.margin-45 { margin-left: 45px }
+.hg-65 {  height: 65px}
+.last { height: 25px;
+width: 500px;}
+.justify { display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.border-bt { width: 100px; margin-top: 0;
+    border-bottom: 1px solid cornflowerblue }
+.margin-200 {margin-left: 200px }

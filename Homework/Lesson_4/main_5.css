@@ -1,0 +1,17 @@
+.bg-f { background: darkslateblue;
+text-align: center;
+}
+.bg-s { background: darkcyan;
+ text-align: center; }
+.hg-160 { height: 160px; }
+.wid-121 {width: 121px; }
+.rows { display: flex;
+flex-direction: row;
+}
+.mrgn-r { margin-right: 2px }
+.mrgn-b { margin-bottom: 2px }
+.hg-80 { height: 80px }
+.wd-244 { width: 244px }
+.hg-100 { height: 100px }
+.wd-80 {width:80px }
+.pd {padding-top: 5px}
