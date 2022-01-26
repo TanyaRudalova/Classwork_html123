@@ -1,0 +1,29 @@
+.fr {
+    background: olive;
+    height: 70px;
+    width: 768px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.sec {
+    background-color: olive;
+    width: 473px;
+    height: 150px;
+    margin-right: 5px;
+    text-align: center;
+}
+.fth { display: flex;
+flex-direction: row;
+}
+.tr { background: olive;
+width: 290px;
+height: 150px;
+    text-align: center;
+}
+
+@media screen and ( max-width: 768px )
+{
+    .fth { display: flex;
+        flex-direction: column; align-items: center; row-gap: 5px;
+    }
+}

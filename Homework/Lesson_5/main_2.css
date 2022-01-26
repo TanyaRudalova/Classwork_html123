@@ -1,0 +1,29 @@
+.fr {
+    background: royalblue;
+    height: 70px;
+    width: 768px;
+    margin-bottom: 4px;
+ }
+.bot { background: royalblue;
+height: 70px;
+    width: 602px;
+    margin-bottom: 4px;
+}
+.button { background: royalblue;
+width: 198px;
+    height: 70px;
+}
+.three { display: flex;   flex-direction: row; }
+.margin-r { margin-right: 4px  }
+.last { background: royalblue;
+    width: 162px;
+    height: 144px ;
+}
+.sec { display: flex;
+flex-direction: row;
+}
+@media screen and ( max-width: 768px )
+{
+.sec { display: flex; flex-direction: column; align-items: center; row-gap: 4px; }
+.three { display: flex; justify-content: space-between; }
+}
