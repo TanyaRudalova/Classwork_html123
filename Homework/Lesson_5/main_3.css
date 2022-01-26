@@ -1,38 +1,44 @@
 .logo {
     background: gray;
-    width: 140px;
+    width: 150px;
     height: 50px;
-    margin-right: 4px;
+    margin-right: 7px;
+}
+.logo-sec {
+    background: gray;
+    width: 150px;
+    height: 50px;
+    margin-right: 7px;
 }
 .header {
     background: gray;
-    width: 624px;
+    width: 654px;
     height: 50px;
 }
 .flex-row { display: flex;
 flex-direction: row;
 }
 .nav { background: gray;
-width: 140px;
+width: 150px;
     height: 220px;
-    margin-right: 4px;
-    margin-bottom: 4px;
+    margin-right: 7px;
+    margin-bottom: 7px;
 }
 .bath {
     background: gray;
-    width: 420px;
+    width: 446px;
     height: 80px;
-    margin-right: 4px;
-    margin-bottom: 4px;
+    margin-right: 7px;
+    margin-bottom: 7px;
 }
 .ad { background: gray;
 height: 80px;
     width: 200px;
 }
 .types { background: gray;
-width: 420px;
+width: 446px;
     height: 244px;
-    margin-right: 4px;
+    margin-right: 7px;
 }
 .related {
     background: gray;
@@ -42,40 +48,48 @@ width: 420px;
 .wrap {
     display: flex;
     flex-wrap: wrap;
-margin-top: 4px;
+margin-top: 7px;
 }
 .footer {
     background: gray;
     height: 50px;
-    width: 768px;
-    margin-top: 4px;
+    width: 809px;
+    margin-top: 7px;
 }
 .block { display: none  }
-.margin-bot { margin-bottom: 4px }
+.margin-bot { margin-bottom: 7px }
+
+
 @media screen and ( max-width: 768px )
 {
+    .logo { width: 120px;  height: 50px; }
+    .header { width: 648px; height: 50px; }
     .nav { width: 768px;
     height: 50px;
     }
 .none { display: none  }
 .bath { width: 520px;
 height: 150px; }
-.ad { width: 244px;
+.ad { width: 241px;
 height: 150px;}
 #fot { display: flex;
 flex-direction: column}
 .types { width: 768px;
-height: 150px;
-margin-bottom: 4px;
+height: 200px;
+margin-bottom: 7px;
 }
-.related { height: 50px;
+.related { height: 70px;
 width: 768px;}
 .block {
 display: flex;
     flex-direction: row;
-margin-top: 4px;
+margin-top: 7px;
+    column-gap: 7px;
 }
-.logo { width: 382px;
+.logo-sec { width: 382px;
 height: 50px;
+}
+.mob { width: 381px;
+    margin-right: 0;
 }
 }
