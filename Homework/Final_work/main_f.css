@@ -1,0 +1,219 @@
+* {
+    font-family:'Roboto' , sans-serif;
+    margin: 0;
+}
+:root {
+    --black-color: #0B2330;
+}
+.wrapper { max-width: 1372px;
+    height: 83px;
+    display: flex;
+    align-items: center;
+margin-left: 36px;
+margin-right: 32px}
+.nav_menu_item  a {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--black-color);
+    text-decoration: none;
+}
+.nav_menu_f { width: 618px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 170px;
+}
+.nav_menu_s { width: 372px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+margin-left: 170px;
+}
+.header_logo { display: flex;
+    align-items: center;
+    width: 95px;
+}
+.btn { height: 54px;
+    width: 163px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.normal { background: #0B2330;
+color: white;
+border: none}
+.main_title {
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 64px;
+    color: var(--black-color);
+    height: 256px;
+    width: 436px;
+    margin-top: 154px;
+}
+.block_title {margin-left: 147px;
+margin-right: 257px;}
+.text {
+    height: 96px;
+    width: 435px;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 32px;
+    color: #375361;
+    margin-top: 32px;
+}
+.button_set { margin-top: 38px }
+.start { background: #F9C600;
+    border: none;
+}
+.btn_talk {
+  height: 54px;
+    width: 156px;
+    border: 1px solid #0B2330;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-left: 16px;
+    cursor: pointer;
+}
+.content_video { display: flex;
+width: 1440px}
+.video { height: 541px;
+    width: 608px;
+    position: relative;
+top:160px; left: -692px}
+.block_video { display: flex }
+.title_sec {
+    margin-top: 189px;
+    margin-left: 446px;
+    margin-bottom: 59px;
+    height: 96px;
+    width: 547px;
+    font-size: 20px;
+    line-height: 48px;
+    text-align: center;
+    color: var(--black-color);
+}
+.set_icon { width: 1094px;
+margin-left: 174px;
+display: flex;
+    flex-direction: row;
+    column-gap: 84px;
+}
+.tick { width: 7px; height: 3px;
+padding-bottom: 2px;
+}
+.target {
+    margin-top: 192px;
+    margin-left: 32px;
+    height: 494px;
+    width: 1376px;
+    background: #51CEBC;
+    border-radius: 10px ;
+     display: flex;
+}
+.title_txt {
+    height: 120px;
+    width: 557px;
+    margin-top: 114px;
+    margin-right: 121px;
+    margin-bottom: 35px;
+}
+.text_main {
+    height: 64px;
+    width: 533px;
+    font-size: 22px;
+    line-height: 32px;
+    color: var(--black-color);
+    margin-right: 145px;
+}
+.box_content { margin-top: 191px;
+}
+.tittle_box {
+    height: 80px;
+    width: 711px;
+    margin-left: 364px;
+    text-align: center;}
+.text_copy { font-size: 34px;
+    line-height: 40px;
+    color: var(--black-color); }
+.table {
+    margin-top: 57px;
+    margin-left: 265px;
+    margin-bottom: 113px;
+}
+#button { margin-left: 638px }
+.tabs {
+    margin-top: 60px;
+    margin-left: 148px;
+    height: 537px;
+    width: 1260px;
+    background: #BD78F0;
+    border-radius: 10px;
+    display: flex;
+}
+.title_md {
+    height: 192px;
+    width: 485px;
+    margin-top: 103px;
+margin-right: 193px;
+}
+.title { font-size: 42px;
+    line-height: 48px;
+    color: var(--black-color); }
+.text_sm {
+    height: 56px;
+    width: 550px;
+    margin-right: 128px;
+    margin-top: 39px;
+}
+.text_tagline {
+    font-size: 17px;
+    line-height: 28px;
+    color: var(--black-color);
+}
+.img { position: relative;
+    top:2px; left: -109px; }
+.text_section { margin-top: 136px;
+ margin-left: 148px; }
+.text_lead {
+    font-size: 14px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #6A7981;}
+.text_subject {
+    margin-top: 13px;
+    height: 144px;
+    width: 593px;}
+.text_desc {
+    margin-top: 26px;
+    width: 500px;
+    font-size: 22px;
+    line-height: 32px;
+    color: #375361;}
+.text_aside
+   { margin-top: 226px;
+    margin-left: 148px;
+    width: 1260px}
+.text_item {
+    width: 484px;
+    margin-top: 29px;
+    margin-bottom: 64px; }
+.margin_top { margin-top: 23px }
+.flex { display: flex;
+flex-direction: row;
+    justify-content: space-between;
+}
+.margin-140 { margin-top: 140px }
+.text_aside_text { margin-top: 21px;
+display: flex;}
+.text_aside_set { font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #61757E;
+ margin-right: 24px }
+.text_aside_orange {
+    background: orange;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #0B2330;}
